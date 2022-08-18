@@ -1,0 +1,12 @@
+.select{
+    left: 50% !important;
+    right: auto !important;
+    text-align: center !important;
+    transform: translate(0%, 0) !important;
+}
+.selectComponent{
+    background-color: rgb(179, 230, 247);
+}
+.select2{
+    width: max-content;
+}
